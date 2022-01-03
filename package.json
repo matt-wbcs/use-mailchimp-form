@@ -1,5 +1,5 @@
 {
-  "name": "use-mailchimp-form",
+  "name": "@mattwbcs/use-mailchimp-form",
   "description": "MailChimp Form implemented in React Hooks",
   "keywords": [
     "mailchimp",
@@ -8,14 +8,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imgarylai/use-mailchimp-form.git"
+    "url": "git+https://github.com/matt-wbcs/use-mailchimp-form.git"
   },
   "author": "Gary Lai <garylai1990@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imgarylai/use-mailchimp-form/issues"
+    "url": "https://github.com/matt-wbcs/use-mailchimp-form/issues"
   },
-  "homepage": "https://github.com/imgarylai/use-mailchimp-form#readme",
+  "homepage": "https://github.com/matt-wbcs/use-mailchimp-form#readme",
   "version": "2.0.4",
   "source": "src/index.ts",
   "main": "dist/index.js",

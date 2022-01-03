@@ -17,10 +17,11 @@ export const useFormFields: (initialState: Params) => {
       [event.target.id]: event.target.value,
     });
   };
-  const setField = (fieldName: string, value: any) => setValues({
-    ...fields,
-    [fieldName]: value
-  })
+  const setField = (fieldName: string, value: any) =>
+    setValues({
+      ...fields,
+      [fieldName]: value,
+    });
   return { fields, handleFieldChange, setField };
 };
 
