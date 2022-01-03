@@ -16,7 +16,7 @@
     "url": "https://github.com/matt-wbcs/use-mailchimp-form/issues"
   },
   "homepage": "https://github.com/matt-wbcs/use-mailchimp-form#readme",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "source": "src/index.ts",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
