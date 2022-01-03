@@ -1,5 +1,5 @@
 {
-  "name": "@mattwbcs/use-mailchimp-form",
+  "name": "mattwbcs-use-mailchimp-form",
   "description": "MailChimp Form implemented in React Hooks",
   "keywords": [
     "mailchimp",
