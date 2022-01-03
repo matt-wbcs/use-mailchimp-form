@@ -9,6 +9,7 @@ interface Params {
 export const useFormFields: (initialState: Params) => {
   handleFieldChange: (event: ChangeEvent<HTMLInputElement>) => void;
   fields: Params;
+  setField: (fieldName: string, value: any) => void;
 } = (initialState: Params) => {
   const [fields, setValues] = useState(initialState);
   const handleFieldChange = (event: ChangeEvent<HTMLInputElement>) => {
